@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title style="color:navy; font-family: verdana; font-size: 300%;">bio - Lea Lamatina</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1 style="color:blue; font-family: verdana; font-size: 150%">Lea Lamatina</h1>
+    <img width="400"
+    src = "C:\Users\leala\Pictures\honeyb.jpg"
+    alt ...its a Honey Badger>
+       <p style="color:black; font-family: verdana; font-size: 150%">
+            <br>
+            Honey Badger don't care.  Honey Badger dont give a, you know.
+        </p>
+    <ul style="color:darkslategray; font-family: verdana; font-size: 100%">
+        <li>Honey Badger a.k.a the ratel, is member of the mustelidae family (weasel family).</li>
+        <li>Honey Badger is the only member of the genus Mellivora.</li>
+        <li>It can be found in Africa, the Middle East and the Indian Subcontinent.</li>
+    </ul>
+        <p style="color:black; font-family: verdana; font-size: 150%">
+            Coo Shtuff about HB's
+        <a href="http://mentalfloss.com/article/63407/11-fierce-facts-about-honey-badger"></a>
+        </p>
+    <ol style="color:black; font-family: verdana; font-size: 100%">
+        <li>THEIR NAME MEANS “HONEY EATER OF THE CAPE.”</li>
+            <p style="color:darkslategray; font-family: verdana; font-size: 100%">Mellivora capensis is the species’ formal name, but you can go ahead and judge a honey badger by its common name. These little monsters love the sweet stuff. “The Cape” is The Cape of Good Hope, South Africa, where many reside (they also call the Middle East and India home). Another one of their names is ratel, which is an Afrikaans word that might be derived from the Dutch word for honeycomb, raat.</p> 
+        <li>THEY’RE SKUNK-LIKE.</li>
+            <p style="color:darkslategray; font-family: verdana; font-size: 100%">Aside from their physical similarities, the honey badger also boasts a dangerous gland at the base of its tail containing a stinky liquid. Generally, it’s just used to mark territory, but should the animal find itself in distress, its biological kneejerk is to release a stink bomb—different, but just as rotten as its sister scent-leaver.</p>
+        <li>THEY CAN DIG LIKE CRAZY.</li>
+            <p style="color:darkslategray; font-family: verdana; font-size: 100%">Using their long claws, honey badgers dig burrows to rest in, sometimes on a daily basis. They’ll do it anywhere—in the ground, in a tree trunk, or even into an old termite mound. If needed, they can dig themselves a hiding hole in a matter of minutes and use their natural excavation skills to capture prey underground.</p>
+    </ol>
+</body>
+</html>
